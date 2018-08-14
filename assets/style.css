@@ -1,0 +1,37 @@
+body {
+    background-image: url('images/emotions.jpg'); 
+}
+
+.header {
+    text-align: center;
+}
+
+#buttons-go-here {
+    margin: 15px;
+
+}
+
+.container {
+    margin-bottom: 10px;
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+    background-color: lightgray;
+}
+
+.item {
+    float: left;
+    margin-right: 10px;
+}
+
+.button {
+    margin: 5px;
+}
+
+#search-goes-here {
+    padding: 10px;
+}
+
+#submit {
+    margin-top: 10px;
+}
