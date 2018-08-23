@@ -22,3 +22,6 @@ For this assignment, the objective was to create a web that made use of the Giph
 * Javascript
 * JQuery
 * Giphy API
+
+###Deployed Link:
+https://tywi6665.github.io/GifTastic/
